@@ -20,6 +20,7 @@
         <date>2003-06-29</date>
         <state>alpha</state>
         <notes>Check http://www.llucax.hn.org/desarrollo/bife/ for details.</notes>
+        <provides type="class" name="BIFE_Menu_Menu"/>
         <filelist>
             <!-- PHP -->
             <file role="php">BIFE/Menu/Menu.php</file>
